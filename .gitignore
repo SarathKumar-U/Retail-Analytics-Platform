@@ -1,0 +1,40 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local databases
+data/database/
+*.db
+*.sqlite
+*.sqlite3
+
+# Datasets - temporarily exclude until licensing is confirmed
+data/raw/
+data/processed/
+
+# Power BI - temporarily exclude until privacy is checked
+*.pbix
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
