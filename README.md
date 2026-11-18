@@ -25,3 +25,61 @@ An end-to-end retail sales analytics project focused on analyzing sales, profit,
 
 ## Author
 Sarath Kumar
+
+
+---
+
+## Project Results
+
+### Key Business Metrics
+
+| Metric | Result |
+|---|---:|
+| Total Records | 9,994 |
+| Total Orders | 5,009 |
+| Total Customers | 793 |
+| Total Sales | $2.30M |
+| Total Profit | $286K |
+| Profit Margin | 12.47% |
+
+### Dashboard Pages
+
+**1. Executive Overview**
+- Monthly Sales Trend
+- Region-wise Sales Performance
+- Segment-wise Sales Distribution
+- Category-wise Sales and Profit Analysis
+- Sub-Category Sales Analysis
+- Sales by Ship Mode
+
+**2. Product & Regional Analysis**
+- Regional Profitability
+- Top 10 Products by Profit
+- Top 10 Loss-Making Products
+- Category and Sub-Category Analysis
+
+**3. Customer & Discount Analysis**
+- Top 10 Customers by Sales
+- Customer-wise Order Count
+- Discount vs Profit Analysis
+- Segment-wise Profitability
+
+### SQL Business Insights
+
+| Category | Total Sales | Total Profit |
+|---|---:|---:|
+| Technology | $836,154.03 | $145,454.95 |
+| Furniture | $741,999.80 | $18,451.27 |
+| Office Supplies | $719,047.03 | $122,490.80 |
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning and Validation
+- Exploratory Data Analysis (EDA)
+- Python Data Analysis using Pandas
+- SQL Queries and Business Analysis
+- SQLite Database Management
+- Interactive Dashboard Development using Power BI
+
