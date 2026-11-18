@@ -83,3 +83,17 @@ Sarath Kumar
 - SQLite Database Management
 - Interactive Dashboard Development using Power BI
 
+---
+
+## Power BI Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
+
+### 2. Product & Regional Analysis
+![Product and Regional Analysis](screenshots/product-regional-analysis.png)
+
+### 3. Customer & Discount Analysis
+![Customer and Discount Analysis](screenshots/customer-discount-analysis.png)
+
+
